@@ -4,7 +4,7 @@ require_once "vendor/autoload.php";
 use Omnipay\Omnipay;
 
 define('CLIENT_ID', 'ATHwBeH162fRC3PkhQdW3kvcPEuRwAoMNXzoBUmqXjeqwuFbWsmi0TFmVGUz3BeG_aIYMT1yjbDdJNjY');
-define('CLIENT_SECRET', 'EJRtNeJQSS5h-83BODuYMS2HcHS8ecOZo-KdL8sgwiOUjR-naGTASDz2IPRTxYBqAFnGQ499j0EiX6TX');
+define('CLIENT_SECRET', 'input Client Secret here');
 
 define('PAYPAL_RETURN_URL', 'http://localhost/paypal/success.php');
 define('PAYPAL_CANCEL_URL', 'http://localhost/paypal/cancel.php');

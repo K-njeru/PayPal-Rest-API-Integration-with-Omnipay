@@ -7,4 +7,4 @@ Streamlined solution for integrating PayPal Rest API using Omnipay PHP library, 
 4.Prepare the payment request by creating a payment request object with the necessary parameters, such as the amount, currency, and return URLs.
 5.All set-up!!
 NB:
-
+To switch to live mode you'll need to get live credentials from the paypal official website.
